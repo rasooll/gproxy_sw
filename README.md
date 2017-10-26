@@ -1,6 +1,6 @@
-#Gnome proxy switcher
+# Gnome proxy switcher
 
-###How to use:
+### How to use:
 
 `./proxy_switcher.sh config` for enter proxy address and port
 
